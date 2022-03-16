@@ -30,4 +30,3 @@ spec:
   ingress:
   - fromEntities:
     - "all"
-    
