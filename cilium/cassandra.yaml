@@ -27,8 +27,6 @@ spec:
         protocol: "TCP"
       - port: "9000"
         protocol: "TCP"
-      - port: "8008"
-        protocol: "TCP"
   ingress:
   - fromEntities:
     - "all"
