@@ -24,6 +24,6 @@ spec:
         - path: /usr/bin/chmod
         - path: /usr/bin/nano
         - path: /usr/bin/cat
-        - path: /usr/bin/vi
+        - path: /usr/lib
     action: Block
     
