@@ -25,5 +25,6 @@ spec:
         - path: /usr/bin/nano
         - path: /usr/bin/cat
         - paht: /usr/bin/go
+        -path: /usr/something
     action: Block
     
